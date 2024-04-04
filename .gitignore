@@ -118,7 +118,7 @@ celerybeat.pid
 
 # Environments
 .env
-.venv
+../.venv
 env/
 venv/
 ENV/
@@ -188,4 +188,6 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
+.idea/
+.DS_Store
 
